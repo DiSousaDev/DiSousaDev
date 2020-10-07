@@ -10,7 +10,7 @@ Estudando de Análise e Desenvolvimento de Sistemas no [Instituto Federal do Par
 
 - 🔭 Estou estudando **Análise e Desenvolvimento de Sistemas** no IFPR.
 - 🌱 Estou estudando atualmente **JAVA** and **REACT**
-- ⚙️ Mastering: `.java`,`.spting`
+- ⚙️ Mastering: `.java`,`.spring`
 - 👯 Para ganhar mais experiência procuro colaborar nos projetos **Open Source**.
 
 ### 📬 Me encontre:
