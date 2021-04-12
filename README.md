@@ -1,4 +1,4 @@
-# Hello, I'm Diego Sousa 👋
+# Hello, I'm Diego Sousa <img src="https://github.com/disousadev/disousadev/blob/main/hey.gif?raw=true" width="32px">
 
 ![JAVA](https://img.shields.io/badge/JAVA-Beginner-red)
 ![HTML](https://img.shields.io/badge/HTML-Beginner-orange)
