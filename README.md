@@ -13,7 +13,7 @@ Estudando de Análise e Desenvolvimento de Sistemas no [Instituto Federal do Par
 - ⚙️ Mastering: `.java`,`.spring`
 - 👯 Para ganhar mais experiência procuro colaborar nos projetos **Open Source**.
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/disousadev/disousadev/output/github-contribution-grid-snake.svg)
 
 ### 📬 Me encontre:
 
