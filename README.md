@@ -6,9 +6,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Beginner-lightgrey)
 
-Estudando de Análise e Desenvolvimento de Sistemas no [Instituto Federal do Parana](https://colombo.ifpr.edu.br). Tenho dedicado a maior parte do meu tempo estudando JAVA, Spring e Spring Boot, HTML, CSS, Javascript, TypeScript, React e ReactJS.
+Formado em Análise e Desenvolvimento de Sistemas no [Instituto Federal do Parana](https://colombo.ifpr.edu.br). Tenho dedicado a maior parte do meu tempo estudando JAVA, Spring e Spring Boot, HTML, CSS, Javascript, TypeScript, React e ReactJS.
 
-- 🔭 Graduado **Análise e Desenvolvimento de Sistemas** no IFPR.
+- 🎓 **Análise e Desenvolvimento de Sistemas** no IFPR.
 - 🌱 Estou estudando atualmente **JAVA**, **MICROSERVIÇOS COM SPRINGBOOT** e **REACT**
 - ⚙️ Mastering: `.java`,`.spring`
 - 👯 Para ganhar mais experiência procuro colaborar nos projetos **Open Source**.
