@@ -13,8 +13,6 @@ Formado em Análise e Desenvolvimento de Sistemas no [Instituto Federal do Paran
 - ⚙️ Mastering: `.java`,`.spring`
 - 👯 Para ganhar mais experiência procuro colaborar nos projetos **Open Source**.
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/disousadev/disousadev/output/github-contribution-grid-snake.svg)
-
 ### 📬 Me encontre:
 
 - GitHub: [github.com/DiSousaDev][github]
